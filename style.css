@@ -1,0 +1,51 @@
+
+.container{
+    background-color: aqua;
+    display: flex;
+}
+.box{
+   background-color: bisque;
+    background-image: url(https://www.icecream.com/content/dam/dreyersgrandicecreaminc/us/en/haagen-dazs/news/butter-cookie-cone/Individual_Cone_1500x1140.png);
+background-repeat: no-repeat;
+background-size: cover;
+width: 400px;
+height: 400px;
+
+}
+.icon{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+   align-items: center;
+   -webkit-box-pack: center;
+   -ms-flex-pack: center;
+   justify-content: center;
+width: 60px;
+height: 60px;
+border-radius: 50%;
+border: 2px solid red ;
+margin-left: 170px;
+}
+.box1{
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    padding: 5px;
+}
+.iconca{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+   align-items: center;
+   -webkit-box-pack: center;
+   -ms-flex-pack: center;
+   justify-content: center;
+width: 60px;
+height: 60px;
+border-radius: 50%;
+border: 2px solid red ;
+margin-left: 170px;
+}
